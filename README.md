@@ -29,6 +29,6 @@ This is a simple AI-powered language translation tool built in Python. It uses t
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/yourusername/ai-language-translator.git
-cd ai-language-translator
+Command CLI
+gh repo clone MUHAMMADANASFAROOQUI/Translator-Agent
+
